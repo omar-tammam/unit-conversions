@@ -1,0 +1,19 @@
+{
+    "name": "omar-tammam/unit-conversions",
+    "description": "init package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "omar-tammam",
+            "email": "omar.tammam@expandcart.com"
+        }
+    ],
+	"autoload" : {
+		 "psr-4": {
+            "Expandcart\\unitconversions\\": "src/"
+        }
+	},
+    "minimum-stability": "dev",
+    "require": {}
+}
