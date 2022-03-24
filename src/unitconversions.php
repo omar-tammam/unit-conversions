@@ -3,7 +3,7 @@
 namespace Expandcart;
 
 
-class unitconversions {
+class UnitConversions {
 	
 	private $kilograms;
 	
